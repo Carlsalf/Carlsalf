@@ -8,7 +8,7 @@ Alicante, Spain
 
 Featured Projects
 
-• Intelligent Sales System – Backend system with analytics and sales prediction (Node.js + Python)
+• Intelligent Sales System –  Backend system with data analytics and sales prediction using Node.js and Python
 https://github.com/Carlsalf/intelligent-sales-system
 
 • Imtexa Web System – Fullstack internal sales platform (React + Node.js)
