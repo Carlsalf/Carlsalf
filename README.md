@@ -1,35 +1,39 @@
- - Hi, I'm Carlos Alfredo Callagua Llaque
+Hi, I'm Carlos Alfredo Callagua Llaque
 
- * Full-Stack Developer (React · Node.js · SQLite) · Mobile (Kotlin · Swift)  
- * Master’s student — University of Alicante (UA)  
- * Alicante, Spain
-
----
-
-  Featured Projects
-- Imtexa Web System – Internal sales platform  
-  Frontend: https://github.com/Carlsalf/imtexa-fronted-Web  
-  Backend:  https://github.com/Carlsalf/imtexa-backend  
-
-- Omniverse Multiplayer Starter – Lobby + Matchmaking + WebSocket (UE5-ready)  
-  https://github.com/Carlsalf/omniverse-mp-starter
-
-- Filmoteca Android (UA) – Kotlin / Compose  
-  https://github.com/Carlsalf/filmoteca-android
-
-- iMoneda iOS (UA) – Swift / Xcode  
-  https://github.com/Carlsalf/iMoneda
+Full-Stack Developer | Node.js, React, Python | Data-driven systems & analytics
+Master’s student — University of Alicante (UA)
+Alicante, Spain
 
 ---
 
-  Tech Stack
-- Frontend:** React, Vite, HTML/CSS/JS  
-- Backend:** Node.js, Express, REST APIs, SQLite  
-- Mobile:** Kotlin (Android), Swift (iOS)  
-- Tools:** Git/GitHub, VS Code, Android Studio, Xcode
+Featured Projects
+
+• Intelligent Sales System – Backend system with analytics and sales prediction (Node.js + Python)
+https://github.com/Carlsalf/intelligent-sales-system
+
+• Imtexa Web System – Fullstack internal sales platform (React + Node.js)
+Frontend: https://github.com/Carlsalf/imtexa-fronted-Web
+Backend: https://github.com/Carlsalf/imtexa-backend
+
+• Omniverse Multiplayer Starter – Real-time system (WebSocket, matchmaking, lobby)
+https://github.com/Carlsalf/omniverse-mp-starter
+
+• Filmoteca Android – Mobile app with Kotlin / Jetpack Compose
+https://github.com/Carlsalf/filmoteca-android
 
 ---
 
- Contact
-Email: carls.alfred9@gmail.com  
+Tech Stack
+
+* Frontend: React, Vite, HTML, CSS, JavaScript
+* Backend: Node.js, Express, REST APIs, SQLite
+* Data: Python, Pandas, Matplotlib, Scikit-learn
+* Mobile: Kotlin (Android), Swift (iOS)
+* Tools: Git, GitHub, VS Code, Android Studio, Xcode
+
+---
+
+Contact
+
+Email: [carls.alfred9@gmail.com](mailto:carls.alfred9@gmail.com)
 LinkedIn: https://linkedin.com/in/carlscallagua
